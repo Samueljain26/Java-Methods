@@ -1,6 +1,4 @@
-import java.util.Arrays;
-import java.util.Scanner;
-
+import java.util.*;
 class NumberChecker {
     // Method to find the count of digits in the number
     public static int countDigits(int number) {
